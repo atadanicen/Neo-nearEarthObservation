@@ -1,4 +1,4 @@
-# Neo-nearEarthObservation
+# Neo-nearEarthObservation 🌍
  #### This app aims to simplify the usage of Nasa Public API for who wanna observe asteroids approaching to the Earth.
   What you can do with this application:
   - Near Earth Asteroid information such as closest approach date to Earth, relative velocity, min/max estimated diameter etc.
