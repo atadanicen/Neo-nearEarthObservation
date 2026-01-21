@@ -1,1 +1,59 @@
+# -------------------------
+# Python
+# -------------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+.conda/
+
+# -------------------------
+# Streamlit
+# -------------------------
+.streamlit/secrets.toml
+
+# -------------------------
+# Environment variables
+# -------------------------
+.env
+.env.*
+
+# -------------------------
+# OS files
+# -------------------------
 .DS_Store
+Thumbs.db
+
+# -------------------------
+# IDEs / Editors
+# -------------------------
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# -------------------------
+# Jupyter / Data
+# -------------------------
+.ipynb_checkpoints/
+*.csv
+
+# -------------------------
+# Logs & caches
+# -------------------------
+*.log
+.cache/
+
+# -------------------------
+# Build / distribution
+# -------------------------
+build/
+dist/
+*.egg-info/
