@@ -77,7 +77,7 @@ def detail_page():
         # Displaying with high-visibility formatting
         st.dataframe(
             styled_df,
-            use_container_width=True,
+            width="stretch",
             column_config={
                 "Hazardous": st.column_config.TextColumn("Hazardous ⚠️"),
                 "Relative Velocity": st.column_config.NumberColumn(format="%.2f km/s"),
