@@ -6,8 +6,8 @@
   - Download the data in CSV format for data related projects.
  ## Usage
  1. Get the API key from [here](https://api.nasa.gov).
- 2. Paste the API key in [demo page](https://share.streamlit.io/atadanicen/neo-nearearthobservation/main).
+ 2. Paste the API key in [demo page](https://near-earth-observation.streamlit.app).
  3. Select the dates.
  4. And observe, if you want you can download the data in CSV format.
  ##
-Live Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/atadanicen/neo-nearearthobservation/main)
+Live Demo: [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://near-earth-observation.streamlit.app)
