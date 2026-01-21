@@ -79,7 +79,7 @@ def detail_page():
             styled_df,
             width="stretch",
             column_config={
-                "Hazardous": st.column_config.TextColumn("Hazardous ⚠️"),
+                "Hazardous": st.column_config.TextColumn("Hazardous"),
                 "Relative Velocity": st.column_config.NumberColumn(format="%.2f km/s"),
             },
         )
